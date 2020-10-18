@@ -9,10 +9,10 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.bolasaideas.springboot.tomcat</groupId>
-    <artifactId>spring-boot-tomcat</artifactId>
+    <groupId>com.bolasaideas.springboot.jboss</groupId>
+    <artifactId>spring-boot-jboss</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-tomcat</name>
+    <name>spring-boot-jboss</name>
     <description>Demo project for Spring Boot</description>
     <packaging>war</packaging>
 
